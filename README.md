@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my assignment-3
 
 You can use the [editor on GitHub](https://github.com/krishna3617/assignment-3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
